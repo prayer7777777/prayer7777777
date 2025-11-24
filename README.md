@@ -39,7 +39,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayer7777777&theme=tokyonight&hide_border=true&border_radius=12&point=FFFFFF" height="300" />
 </div>
 
-## 📈 访客计数（你的人气证明）
+## 📈 访客计数
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/prayer7777777&label=Visitors&countColor=%2320C997&style=flat&labelStyle=upper" />
