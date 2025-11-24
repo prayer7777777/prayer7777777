@@ -68,12 +68,11 @@
 ---
 
 ### 📊 My WakaTime Stats
-<!-- 
-**Note**: To enable WakaTime stats, you need a WakaTime account and a GitHub secret.
-... (WakaTime instructions) ...
--->
-<!-- WAKATIME-STATS-START -->
-<!-- WAKATIME-STATS-END -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prayer7777777&theme=tokyonight&layout=compact" alt="wakatime" />
+  </a>
+</p>
 
 ---
 
