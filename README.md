@@ -30,22 +30,6 @@
 
 ---
 
-### 🧰 My Skill Set
-<!--
-- 💻 **Programming Languages**: `JavaScript`, `TypeScript`, `Python`, `Java`
-- 🌐 **Frontend**: `React`, `Vue`, `Next.js`, `HTML`, `CSS`
-- ☁️ **Backend**: `Node.js`, `Express`, `Django`
-- 🛢️ **Databases**: `MongoDB`, `PostgreSQL`, `MySQL`
-- 🔧 **Tools**: `Git`, `Docker`, `Webpack`
--->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,vue,nextjs,html,css,nodejs,express,django,git,docker,webpack,vscode,windows,cloudflare" />
-  </a>
-</p>
-
----
-
 ### 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -82,4 +66,20 @@
 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/prayer7777777/prayer7777777/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 🧰 ~~My Skill Set~~
+<!--
+- 💻 **Programming Languages**: `JavaScript`, `TypeScript`, `Python`, `Java`
+- 🌐 **Frontend**: `React`, `Vue`, `Next.js`, `HTML`, `CSS`
+- ☁️ **Backend**: `Node.js`, `Express`, `Django`
+- 🛢️ **Databases**: `MongoDB`, `PostgreSQL`, `MySQL`
+- 🔧 **Tools**: `Git`, `Docker`, `Webpack`
+-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,vue,nextjs,html,css,nodejs,express,django,git,docker,webpack,vscode,windows,cloudflare" />
+  </a>
 </p>
