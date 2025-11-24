@@ -40,7 +40,7 @@
 -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,vue,nextjs,html,css,nodejs,express,django,mongodb,postgresql,mysql,git,docker,webpack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,vue,nextjs,html,css,nodejs,express,django,git,docker,webpack,vscode,windows,cloudflare" />
   </a>
 </p>
 
