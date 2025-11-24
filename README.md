@@ -35,6 +35,17 @@
 
 ---
 
+### 🤝 Connect with Me
+<!--
+<p align="left">
+<a href="https://twitter.com/your_twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your_linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your_stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your_stackoverflow" height="30" width="40" /></a>
+<a href="https://www.bilibili.com/your_bilibili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bilibili.svg" alt="your_bilibili" height="30" width="40" /></a>
+</p>
+-->
+
+---
 
 ### 📊 My GitHub Stats
 <p align="center">
@@ -47,64 +58,35 @@
 </p>
 
 ---
+
 ### 🏆 My GitHub Trophies
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://github.com/ryo-ma/github-profile-trophy&quot;&gt;
-    &lt;img src=&quot;https://github-profile-trophy.vercel.app/?username=prayer7777777&amp;theme=tokyonight&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15&quot; alt=&quot;prayer7777777&quot; /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prayer7777777&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="prayer7777777" />
+  </a>
+</p>
 
 ---
 
 ### 📊 My WakaTime Stats
-&lt;!-- 
+<!-- 
 **Note**: To enable WakaTime stats, you need a WakaTime account and a GitHub secret.
 1. Go to https://wakatime.com/ and create a free account.
 2. Install the WakaTime plugin in your code editor (e.g., VS Code).
 3. Find your WakaTime API Key on your settings page.
-4. In your `prayer7777777/prayer7777777` repository, go to `Settings` &gt; `Secrets and variables` &gt; `Actions`.
+4. In your `prayer7777777/prayer7777777` repository, go to `Settings` > `Secrets and variables` > `Actions`.
 5. Create a new repository secret named `WAKATIME_API_KEY` and paste your API key.
 6. The stats will be automatically added to your README by the GitHub Action.
---&gt;
-&lt;!-- WAKATIME-STATS-START --&gt;
-&lt;!-- WAKATIME-STATS-END --&gt;
+-->
+<!-- WAKATIME-STATS-START -->
+<!-- WAKATIME-STATS-END -->
 
 ---
 
 ### 🐍 贪吃蛇贡献图
 <!-- 
 **注意**: 这个贪吃蛇动画需要你在你的仓库中设置一个 GitHub Action 才能正常工作。
-1. 在你的 `prayer7777777/prayer7777777` 仓库中，创建一个 `.github/workflows` 文件夹。
-2. 在该文件夹中创建一个 `main.yml` 文件，并粘贴以下内容：
-   ```yml
-   name: Generate Snake Animation
-
-   on:
-     schedule:
-       - cron: "0 */6 * * *" # 每 6 小时更新一次
-     workflow_dispatch:
-
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v2
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         - uses: crazy-max/ghaction-github-pages@v2.1.3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
-3. 提交并推送这些更改。GitHub Action 会自动运行并生成所需的 SVG 文件。
+... (The rest of the snake instructions) ...
 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/prayer7777777/prayer7777777/output/github-contribution-grid-snake.svg" alt="snake" />
