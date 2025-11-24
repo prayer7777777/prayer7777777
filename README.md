@@ -3,9 +3,9 @@
 ## 👋 关于我
 
 - 🔭 目前专注于全栈开发与开源项目  
-- 🌱 正在深入学习 React / Next.js / TypeScript / Node.js / Go  
-- 👯 欢迎一起搞副业、开源、学习打卡  
-- 💬 擅长前端工程化、组件库、工具库、低代码方向  
+- 🌱 ~~正在深入学习 React / Next.js / TypeScript / Node.js / Go~~  
+- 👯 欢迎一起~~搞副业~~、开源、学习打卡  
+- 💬 ~~擅长~~前端工程化、组件库、工具库、低代码方向  
 - 📫 联系我：**zhoufa041031@gmail.com**  
 - ⚡ Fun fact：代码写得越多，越觉得时间不够用 ✨
 
@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Email-zhoufa041031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- 如果你有知乎/小红书/微博/B站等，也可以加在这里 -->
 </div>
 
 <p align="center">
